@@ -1,0 +1,15 @@
+{
+  "registros": 1200,
+  "clusters": 2,
+  "ruidos_detectados": 99,
+  "silhouette_sem_ruido": 0.3759230058287972,
+  "ari_referencia_sintetica": 0.8170962640760948,
+  "matriz_confusao": {
+    "verdadeiros_normais": 1086,
+    "falsos_alertas": 14,
+    "anomalias_perdidas": 15,
+    "anomalias_detectadas": 85
+  },
+  "eps": 0.72,
+  "min_samples": 12
+}
